@@ -6,4 +6,6 @@ The study was financially supported by a Marie Skłodowska-Curie Individual Fell
 
 All data are free to use for academic research. 
 
+Contact: mijs@bu.edu
+
 Please cite as follows: Mijs, Jonathan J.B., Willem de Koster and Jeroen van der Waal. 2024. “Social topics in the United States: Economic inequality, racial discrimination, and COVID-19.” Oxford: Prolific Academic.
